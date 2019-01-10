@@ -3,7 +3,7 @@
 **Created: Janurary 10th, 2019**
 <br>
 This is my first attempt at a GitHub Pages site...</br>
-<center><em>---The following is documentation for the selected theme---</em></center>
+<center>---The following is documentation for the selected theme---</center>
 <br>
 
 ## Welcome to GitHub Pages

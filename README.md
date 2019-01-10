@@ -1,10 +1,11 @@
 ## Hello World
 ### My First GitHub Pages Site
 **Created: Janurary 10th, 2019**
-<br></br>
-<br>This is my first attempt at a GitHub Pages site...</br>
+<br>
+This is my first attempt at a GitHub Pages site...</br>
 <center><em>---The following is documentation for the selected theme---</em></center>
-<br></br>
+<br>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Michoff037/Hello-World/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
